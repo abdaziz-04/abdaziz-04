@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdaziz-04
 - 👀 I’m interested in Frontend Web Development, Internet of Things and UI/UX Design
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning Java Programming and Flutter framework
 
 
 <!---
