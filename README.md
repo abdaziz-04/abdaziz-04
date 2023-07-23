@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdaziz-04
-- 👀 I’m interested in Frontend Web Development, Internet of Things and UI/UX Design
+- 👀 I’m interested in Android Development, and Internet of Things
 - 🌱 I’m currently learning Java Programming and Android Development
 
 
