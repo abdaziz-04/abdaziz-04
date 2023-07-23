@@ -2,8 +2,4 @@
 - 👀 I’m interested in Android Development, and Internet of Things
 - 🌱 I’m currently learning Java Programming, Database and Android Development
 
-
-<!---
-abdaziz-04/abdaziz-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://github-readme-stats.vercel.app/api?username=usernamemu)https://github-readme-stats.vercel.app/api?username=abdaziz-04
