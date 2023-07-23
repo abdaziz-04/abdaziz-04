@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdaziz-04
+- 👋 Hi, I’m Aziz
 - 👀 I’m interested in Android Development, and Internet of Things
 - 🌱 I’m currently learning Java Programming and Android Development
 
