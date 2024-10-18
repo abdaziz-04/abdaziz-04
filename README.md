@@ -1,6 +1,6 @@
 ## 💫 About Me :
 - 👋 Hi, I’m Aziz
-- 👀 I’m interested in Mobile Development, and Internet of Things
+- 👀 I’m interested in Mobile Development and Internet of Things
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdazizzz___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdaziz04) 
